@@ -1,0 +1,17 @@
+
+
+Now that we are well into the new year, and the dust has settled on the annual predictions from all of the popular industry experts, I would like to add my own observations to the mix.
+
+When I think about the telephone industry the old Rodney Dangerfield line about respect comes to mind. Telephones just don’t get no respect. While most businesses, if forced to choose between their telephones and the Internet, would give up their Internet access before their telephones, these same businesses take their telephones for granted. In fact telephone companies are called utilities. Wikipedia defines a utility as:
+
+> “… an organization that maintains the infrastructure for a public service (often also providing a service using that infrastructure) …”
+
+So a utility maintains infrastructure. How exciting.
+
+While utilities are critical to our businesses and society, we surely don’t think about them as value added. They are just there. But we sure do count on their reliability. The telephone utilities of old were famous for using the phrase five nines (99.999) which is still the gold standard of reliability. No more. The world of telephones has changed. Few if any telephone services still offer five nines of reliability. Overall we have traded cost for quality. We pay much less for phone calls today than at anytime in history. In exchange we are not surprised if our calls drop or if we have trouble getting a dial tone. I believe that for many people their Internet connectivity is more reliable than their cell phone. What even happened to five nines?
+
+Have we given up five nines of quality just for lower prices? I think not. Along with lower costs the telephone network is also much more open today than at any other time. Due to changes in tariffs, the elimination of many national telephone monopolies and the availablity of VoIP access for call termination and origination, anyone can build an application that interacts with an end user’s telephone device. This device may be a traditional phone, or it might be a mobile phone, a smart phone, a VoIP phone or even a computer.
+
+What is my prediction? In 2010 telephones will transition from cost centers to profit centers as more businesses recognize the opportunity to change the way they use telephones. Cloud-based communications enabled business processes (CEBP) will improve business economics in much the same way that “saleforce.com” revolutionized customer relationship management. CRM went from a nice to have, used mostly in very large enterprises to a fundamental component of standard business practices. Saleforce.com has helped turn average sales and service organizations into outstanding organizations that drive increased revenues and profits into thousands of businesses.
+
+In 2010 businesses of any size, from SOHO to Enterprise, will gain access to telephone applications agnostic of device (that work with any telephone) for improving business lead flow, optimizing sales processes, reducing service delivery costs and improving customer experiences. Just as Salesforce.com revolutionized thousands of businesses’ relationships with their customers, Cloud Telephony based applications will dramatically enhance the utilization of telephone technologies in businesses of every size, turning the utility-based telephone cost center into a profit center.

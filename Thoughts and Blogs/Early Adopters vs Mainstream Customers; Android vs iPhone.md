@@ -1,0 +1,23 @@
+
+
+Since the iPhone 4 began shipping a couple of days ago I have read a multitude of articles comparing this new phone to various Android based devices, generally focused on the newer Droids. I think the authors writing these comparisons miss the point; these devices are serving very different marketplaces and therefore have developed completely difference ecosystems.
+
+Reviews are often focused on processor speed, memory, camera specifications, battery life, size, weight, and the number of applications in the app stores. Some comparisons proceed to position the iPhone as a closed system and highlight the advantages of the open Android development environment. More complete reviews include Nokia and Rim devices in the mix. Almost all of these reviews focus on the devices and not the users of smart phones.
+
+Back before smart phones, Geoffrey Moore in “Crossing the Chasm” described an evolution of product adoption that applies to many high tech companies. Moore’s classification of customers is very similar to the technology adoption lifecycle developed by Joe Bohlen, George Beal and Everett Rogers in 1975. The lifecycle classifies customers into groups called innovators, early adopters, early majority, late majority and laggards.
+
+!\[\](http://upload.wikimedia.org/wikipedia/commons/d/d3/Technology-Adoption-Lifecycle.png) Image Provided by Wikimedia Commons
+
+Moore argues that companies need to focus on one group at a time to cross the chasm between the early adopters and mainstream customers included in the right-most customer group shown above. He continues to point out that many high tech failures occur after a company has amassed a significant number of innovators and early adopters but fails to understand the needs of mainstream customers.
+
+**Android is an early adopter ecosystem while IOS (iPhone) is for mainstream customers.**
+
+The open Android ecosystem provides developers with a highly flexible, open, and easy to root (gain operating system access) development and runtime environment. Google provides very few limitations on the applications available to Android users and does not restrict application distribution. In fact on the Android Market developers web page it states “Android Market is open to all Android application developers. Once registered, developers have complete control over when and how they make their applications available to users.”
+
+In contrast the IOS (iPhone) ecosystem is tightly controlled by Apple. All iPhones ship with a locked down application environment. If you “jailbreak” or unlock the application environment on your iPhone you invalidate your warranty. Developers are required to submit all applications to Apple for review and Apple has full authority over the applications it will allow developers to distribute via the App Store.
+
+Given these differences why would anyone want an iPhone? Because most smart phone users are not developers and in fact do not want to take risks with their phones. They want the company that provided them with the phone to ensure a third party application will not break their ability to make and receive phone calls. Mainstream smart phone customers value consistency over creativity, reliability over flexibility and stability over openness. From the perspective of most iPhone customers there are more applications available in the app store then they will ever need.
+
+Why do developers build applications for the restrictive iOS (iPhone) ecosystem? To paraphrase a famous campaign slogan from the 1992 United States Presidential election, “It’s the economy stupid”. The mainstream smart phone marketplace is vastly larger than the early adopter market and the Apple ecosystem provides developers with a very easy to use distribution channel.
+
+In conclusion, both the Android and the IOS (iPhone) ecosystems provide valuable additions to the telecommunications world. Both solutions provide customers with vastly more choices and with hundreds of thousands of applications. Early adopters that value the maximum in flexibility and that are unfazed by some inconsistency between devices and applications will find their needs well served by a wide range of Android devices. Mainstream customers that want a smart phone that just works and still offers hundreds of thousands of applications, but may not always have the very latest application, will be delighted with an iPhone. When comparing products and services in the rapidly changing technology world of the 21st century, remember to first understand the customer demographics served by the product or service and then properly qualify your comments for a specific marketplace.
